@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabaseSample</string>
+    <string name="add_data_txt">Add Data</string>
+    <string name="show_all_txt">Show All</string>
+    <string name="save_data">Save Data</string>
+    <string name="no_data_found">No Data Found!</string>
+
+</resources>
